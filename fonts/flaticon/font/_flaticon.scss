@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 20/03/2019 02:18
+    Creation date: 03/07/2020 09:59
     */
 
     @font-face {
@@ -37,18 +37,36 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+    .flaticon-3d-design:before { content: "\f100"; }
+.flaticon-web-programming:before { content: "\f101"; }
+.flaticon-app-development:before { content: "\f102"; }
+.flaticon-advertising:before { content: "\f103"; }
+.flaticon-branding:before { content: "\f104"; }
+.flaticon-vector:before { content: "\f105"; }
+.flaticon-computer:before { content: "\f106"; }
+.flaticon-zoom:before { content: "\f107"; }
+.flaticon-suitcase:before { content: "\f108"; }
+.flaticon-loyalty:before { content: "\f109"; }
+.flaticon-coffee:before { content: "\f10a"; }
+.flaticon-calendar:before { content: "\f10b"; }
+.flaticon-listening:before { content: "\f10c"; }
+.flaticon-suitcases:before { content: "\f10d"; }
+.flaticon-video-player:before { content: "\f10e"; }
+.flaticon-football:before { content: "\f10f"; }
     
-    $font-Flaticon-ideas: "\f100";
-    $font-Flaticon-flasks: "\f101";
-    $font-Flaticon-analysis: "\f102";
-    $font-Flaticon-ux-design: "\f103";
-    $font-Flaticon-web-design: "\f104";
-    $font-Flaticon-idea: "\f105";
-    $font-Flaticon-innovation: "\f106";
+    $font-Flaticon-3d-design: "\f100";
+    $font-Flaticon-web-programming: "\f101";
+    $font-Flaticon-app-development: "\f102";
+    $font-Flaticon-advertising: "\f103";
+    $font-Flaticon-branding: "\f104";
+    $font-Flaticon-vector: "\f105";
+    $font-Flaticon-computer: "\f106";
+    $font-Flaticon-zoom: "\f107";
+    $font-Flaticon-suitcase: "\f108";
+    $font-Flaticon-loyalty: "\f109";
+    $font-Flaticon-coffee: "\f10a";
+    $font-Flaticon-calendar: "\f10b";
+    $font-Flaticon-listening: "\f10c";
+    $font-Flaticon-suitcases: "\f10d";
+    $font-Flaticon-video-player: "\f10e";
+    $font-Flaticon-football: "\f10f";

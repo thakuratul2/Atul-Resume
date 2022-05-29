@@ -36,10 +36,19 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+.flaticon-3d-design:before { content: "\f100"; }
+.flaticon-web-programming:before { content: "\f101"; }
+.flaticon-app-development:before { content: "\f102"; }
+.flaticon-advertising:before { content: "\f103"; }
+.flaticon-branding:before { content: "\f104"; }
+.flaticon-vector:before { content: "\f105"; }
+.flaticon-computer:before { content: "\f106"; }
+.flaticon-zoom:before { content: "\f107"; }
+.flaticon-suitcase:before { content: "\f108"; }
+.flaticon-loyalty:before { content: "\f109"; }
+.flaticon-coffee:before { content: "\f10a"; }
+.flaticon-calendar:before { content: "\f10b"; }
+.flaticon-listening:before { content: "\f10c"; }
+.flaticon-suitcases:before { content: "\f10d"; }
+.flaticon-video-player:before { content: "\f10e"; }
+.flaticon-football:before { content: "\f10f"; }
